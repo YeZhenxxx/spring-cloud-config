@@ -1,3 +1,9 @@
-person:
-  name: 花哈话哈哈哈哈哈
-  age: 99
+rabbitName:
+  USER_LOG_DLX_EXCHANGE: user_log_dlx_exchange
+  ROLE_LOG_DLX_EXCHANGE: role_log_dlx_exchange
+  USER_LOG_DLX_QUEUE: user_log_dlx_queue
+  ROLE_LOG_DLX_QUEUE: role_log_dlx_queue
+  USER_LOG_EXCHANGE: user_log_exchange
+  ROLE_LOG_EXCHANGE: role_log_exchange
+  USER_LOG_QUEUE: user_log_queue
+  ROLE_LOG_QUEUE: role_log_queue
