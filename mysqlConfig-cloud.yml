@@ -8,6 +8,9 @@ spring:
     initialSize: 20
     maxActive: 50
     filters: stat,log4j
+rabbitName:
+  USER_LOG_KEY: user.log.msg
+  ROLE_LOG_KEY: role.log.msg
 
 eureka:
   client:
